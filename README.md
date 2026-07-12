@@ -108,9 +108,7 @@ The application will start locally, and you can access it in your web browser.
 ## 📸 Screenshots
 
 ### Chat Interface
-
-(assests/Interface.png)
-
+![Interface](assests/Interface.png)
 ---
 
 ## 🔮 Future Improvements
