@@ -106,10 +106,7 @@ The application will start locally, and you can access it in your web browser.
 ---
 
 ## 📸 Screenshots
-
-### Chat Interface
-![Interface](assests/Interface.png)
----
+![Interface](assets/Interface.png)
 
 ## 🔮 Future Improvements
 
