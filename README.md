@@ -107,14 +107,9 @@ The application will start locally, and you can access it in your web browser.
 
 ## 📸 Screenshots
 
-Add screenshots of your application here.
+### Chat Interface
 
-Example:
-
-* Home Page
-* PDF Upload
-* Chat Interface
-* Generated Response
+![Chat](assets/chat.png)
 
 ---
 
