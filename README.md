@@ -109,7 +109,7 @@ The application will start locally, and you can access it in your web browser.
 
 ### Chat Interface
 
-![Chat](assets/chat.png)
+![Chat](assets/Generated-answer.png)
 
 ---
 
