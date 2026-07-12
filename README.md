@@ -106,7 +106,7 @@ The application will start locally, and you can access it in your web browser.
 ---
 
 ## 📸 Screenshots
-![Interface](assets/Interface.png)
+![Interface](assets/Generated-answer.png)
 
 ## 🔮 Future Improvements
 
